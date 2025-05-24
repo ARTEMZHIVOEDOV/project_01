@@ -7,3 +7,6 @@ for i in range(N-1):
             a[i], a[i+1] = a[i+1], a[i]
 
     print(a)
+
+
+print('Текст из ветки test branch 2')
